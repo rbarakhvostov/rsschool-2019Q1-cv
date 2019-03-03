@@ -20,3 +20,6 @@ My goal is to start a career as a junior front-end developer at EPAM Systems and
 
 ### **EDUCATION**
 BELARUSIAN STATE UNIVERSITY OF TRANSPORT (_Industrial and civil construction_)
+
+### **ENGLISH**
+**level** A1 
