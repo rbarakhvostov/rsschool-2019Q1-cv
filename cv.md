@@ -17,3 +17,6 @@ My goal is to start a career as a junior front-end developer at EPAM Systems and
 * [github](https://github.com/rbarakhvostov)
 * [codeacademy](https://www.codecademy.com/users/romawka95/achievements)
 * [codewars](https://www.codewars.com/users/roman_barakhvostov)
+
+### **EDUCATION**
+BELARUSIAN STATE UNIVERSITY OF TRANSPORT (_Industrial and civil construction_)
