@@ -7,3 +7,13 @@
 
 ## **SUMMARY**
 My goal is to start a career as a junior front-end developer at EPAM Systems and in 5 years to become a professional.
+
+### **SKILLS**
+* HTML5
+* CSS3
+* JavaScript
+
+### **EXPERIENCE**
+* [github](https://github.com/rbarakhvostov)
+* [codeacademy](https://www.codecademy.com/users/romawka95/achievements)
+* [codewars](https://www.codewars.com/users/roman_barakhvostov)
