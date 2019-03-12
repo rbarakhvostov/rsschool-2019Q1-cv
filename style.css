@@ -1,0 +1,143 @@
+body {
+  font-family: "Arial", sans-serif;
+}
+
+.wrap {
+  min-height: calc(100vh - 95px);
+}
+
+header {
+  margin-bottom: 15px;
+
+  text-align: center;
+}
+
+.container {
+  box-sizing: border-box;
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+.name-surname {
+  margin-top: 10px;
+
+  font-weight: bold;
+  font-size: 28px;
+  text-transform: uppercase;
+}
+
+.date-of-birth {
+  margin: 5px 0;
+}
+
+.picture {
+  border-radius: 50%;
+}
+
+main {
+  text-align: center;
+}
+
+.contacts {
+  margin-bottom: 50px;
+}
+
+.contacts-list li {
+  margin-bottom: 10px;
+}
+
+.telephone,
+.email,
+.vkontakte,
+.github {
+  font-size: 16px;
+  color: black;
+  text-decoration: none;
+}
+
+.fa-phone,
+.fa-envelope,
+.fa-vk {
+  margin-right: 5px;
+
+  font-size: 20px;
+}
+
+.telephone:hover,
+.email:hover,
+.vkontakte:hover,
+.github:hover {
+  color: #a4b5c5;
+}
+
+h2 {
+  margin-bottom: 17px;
+
+  font-weight: bold;
+  font-size: 22px;
+  text-transform: uppercase;
+}
+
+.summary,
+.skills,
+.experience,
+.education,
+.english-level {
+  margin-bottom: 55px;
+}
+
+.summary p {
+  font-style: italic;
+  font-size: 18px;
+}
+
+.skills-list li {
+  display: inline-block;
+  margin-right: 10%;
+}
+
+.skills-list li:last-child {
+  margin-right: 0;
+}
+
+.fa-html5,
+.fa-css3,
+.fa-js {
+  font-size: 55px;
+}
+
+.experience p {
+  margin-bottom: 10px;
+
+  font-style: italic;
+  font-size: 18px;
+}
+
+.fa-github {
+  margin-right: 5px;
+
+  font-size: 30px;
+}
+
+.education p:nth-of-type(1) {
+  margin-bottom: 5px;
+
+  font-size: 18px;
+}
+
+.english-level p {
+  font-style: italic;
+  font-size: 18px;
+}
+
+footer {
+  height: 30px;
+}
+
+footer .container {
+  margin-bottom: 10px;
+}
+
+.copyright {
+  margin-left: 10px;
+}
